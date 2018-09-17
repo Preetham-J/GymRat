@@ -8,7 +8,7 @@ The problem we tried to tackle is the lack of virtual personal training assistan
 Using TensorFlow.js and PoseNet, a pose estimation machine learning model, we have designed a web application (Node.js + Express), that provides a fast and accurate personal training service. Users can simply upload a photo, and our app will analyse the photo and provide feedback to the user to allow them to perfect their form.
 
 ## Future Goals
-As of now, the application is limited in various ways. Starting off, only photos can be submitted for analysis, but we would like to add the ability to analyse videos as well. Secondly, only barbell squats are covered in our analysis, but we would like to add many other exercises as well. Through these additions, GymRat would be a fully fledged personal trainer applicaiton.
+As of now, the application is limited in various ways. Starting off, only photos can be submitted for analysis, but we would like to add the ability to analyse videos as well. Secondly, only barbell squats are covered in our analysis, but we would like to add many other exercises as well. Through these additions, GymRat would be a fully fledged personal trainer application.
 
 ## Skills Learned
 From using a machine learning model to web application development, there were a lot of things learned throughout the development of this project for each member of the group. It was great to be able to explore computer vision and machine learning within a fitness based project. All in all, it was a very fun and very informative!
